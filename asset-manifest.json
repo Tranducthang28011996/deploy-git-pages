@@ -1,14 +1,13 @@
 {
-  "main.css": "/deploy-git-pages/static/css/main.945e829a.chunk.css",
-  "main.js": "/deploy-git-pages/static/js/main.826bbd33.chunk.js",
-  "main.js.map": "/deploy-git-pages/static/js/main.826bbd33.chunk.js.map",
+  "main.css": "/deploy-git-pages/static/css/main.13419681.chunk.css",
+  "main.js": "/deploy-git-pages/static/js/main.14aebdd4.chunk.js",
+  "main.js.map": "/deploy-git-pages/static/js/main.14aebdd4.chunk.js.map",
   "static/js/1.f68dcc1a.chunk.js": "/deploy-git-pages/static/js/1.f68dcc1a.chunk.js",
   "static/js/1.f68dcc1a.chunk.js.map": "/deploy-git-pages/static/js/1.f68dcc1a.chunk.js.map",
   "runtime~main.js": "/deploy-git-pages/static/js/runtime~main.19e89d1f.js",
   "runtime~main.js.map": "/deploy-git-pages/static/js/runtime~main.19e89d1f.js.map",
-  "static/media/logo.svg": "/deploy-git-pages/static/media/logo.5d5d9eef.svg",
-  "static/css/main.945e829a.chunk.css.map": "/deploy-git-pages/static/css/main.945e829a.chunk.css.map",
+  "static/css/main.13419681.chunk.css.map": "/deploy-git-pages/static/css/main.13419681.chunk.css.map",
   "index.html": "/deploy-git-pages/index.html",
-  "precache-manifest.178e10751a4718a0c2f37491c063597e.js": "/deploy-git-pages/precache-manifest.178e10751a4718a0c2f37491c063597e.js",
+  "precache-manifest.60248a72bf2a433be84f2b6fdab58834.js": "/deploy-git-pages/precache-manifest.60248a72bf2a433be84f2b6fdab58834.js",
   "service-worker.js": "/deploy-git-pages/service-worker.js"
 }
